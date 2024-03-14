@@ -24,8 +24,7 @@ calendar[1].date = 2;
 strcpy(calendar[1].activity, "Meeting at 10 AM");
 strcpy(calendar[2].name, "Wednesday");
 calendar[2].date = 3;
-Prepared by Prof. Shruthi S , Dept Of AI & DS
-strcpy(calendar[2].activity, "Gym at 6 PM");
+strcpy(calendar[2].activity, "Gym a;
 strcpy(calendar[3].name, "Thursday");
 calendar[3].date = 4;
 strcpy(calendar[3].activity, "Dinner with friends at 7 PM");
